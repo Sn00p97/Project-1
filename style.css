@@ -1,0 +1,50 @@
+.center {
+
+	display: flex;
+	justify-content: center;
+	
+}
+
+h1 {
+	
+	text-align: center;
+	font-size: 50px;
+	font-family: sans-serif;
+	background: black;
+	color: white;
+
+
+}
+
+
+h2 {
+
+	text-align: center;
+font-size: 100px;
+font-family: serif;
+color: white;
+
+
+
+}
+p {
+	text-align: center;
+	font-size: 50px;
+	font-family: serif;
+	color: white;
+
+}
+button { 
+	color: white;
+	font-size: 50px;
+	font-family: serif;
+	background: black;
+
+}
+ body {
+ 	background-image:url("https://static.wikia.nocookie.net/taylor-swift/images/3/38/Kanye-West.jpg/revision/latest/thumbnail/width/360/height/450?cb=20230804132847") ;
+background-repeat:no-repeat ;
+background-size: cover;
+
+ }
+
